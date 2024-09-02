@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\mari700468\\source\\repos\\angularapp2\\angularapp2.client\\src\\app\\user\\user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\user\\user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\mari700468\\source\\repos\\angularapp2\\angularapp2.client\\src\\app\\user\\user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\user\\user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\mari700468\\source\\repos\\angularapp2\\angularapp2.client\\src\\app\\user-form\\user-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\user-form\\user-form.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\mari700468\\source\\repos\\angularapp2\\angularapp2.client\\src\\app\\user-form\\user-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\user-form\\user-form.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\mari700468\\source\\repos\\angularapp2\\angularapp2.client\\src\\app\\shared\\api.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FF0C57FE-2BE2-442A-8A8A-700F23DF7C46}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\shared\\api.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.component.html",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user\\user.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\user\\user.component.html",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user\\user.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\user\\user.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-02T12:53:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user.component.ts",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user\\user.component.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\user\\user.component.ts",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user\\user.component.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\user\\user.component.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-02T12:43:11.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user-form.component.html",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user-form\\user-form.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\user-form\\user-form.component.html",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user-form\\user-form.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\user-form\\user-form.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-02T11:04:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api.model.ts",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\shared\\api.model.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\shared\\api.model.ts",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\shared\\api.model.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\shared\\api.model.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-02T10:53:37.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user-form.component.ts",
+              "DocumentMoniker": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user-form\\user-form.component.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\user-form\\user-form.component.ts",
+              "ToolTip": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\src\\app\\user-form\\user-form.component.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\user-form\\user-form.component.ts",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-02T10:27:05.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

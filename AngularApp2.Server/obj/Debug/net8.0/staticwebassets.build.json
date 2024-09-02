@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Uq5paMoJ9qV6qje/EST0UUNyY+s8/w+gnD54Qqjg2ZE=",
+  "Source": "AngularApp2.Server",
+  "BasePath": "_content/AngularApp2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mari700468\\source\\repos\\AngularApp2\\angularapp2.client\\angularapp2.client.esproj",
+      "Version": 2,
+      "Source": "angularapp2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

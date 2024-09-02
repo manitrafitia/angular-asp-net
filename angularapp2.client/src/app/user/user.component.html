@@ -1,0 +1,28 @@
+<div>
+  <div>
+    <app-user-form />
+  </div>
+  <div>
+    <table>
+      <thead>
+      <th>Id</th>
+      <th>Nom</th>
+      <th>Prénoms</th>
+      <th>Mail</th>
+      <th>Tel</th>
+      </thead>
+      <tbody>
+        <tr *ngFor="let us of service.list">
+          <td>{{us.id}}</td>
+          <td>{{us.nom}}</td>
+          <td>{{us.prenoms}}</td>
+          <td>{{us.email}}</td>
+          <td>{{us.tel}}</td>
+          <td><button (click)="populateForm(us)">Modifier</button></td>
+          <td><button (click)="onDelete(us.id)">Supprimer</button></td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>

@@ -1,0 +1,25 @@
+<form #form="ngForm" (submit)="onSubmit(form)" [class.submitted]="service.formSubmitted" novalidate autocomplete="off">
+  <div>
+    <input type="text"
+           placeholder="Nom" name="nom" #nom="ngModel"
+           [(ngModel)]="service.formData.nom" required>
+  </div>
+  <div>
+    <input type="text"
+           placeholder="Prénoms" name="prenoms" #prenom="ngModel"
+           [(ngModel)]="service.formData.prenoms" required>
+  </div>
+  <div>
+    <input type="email"
+           placeholder="E-mail" name="email" #email="ngModel"
+           [(ngModel)]="service.formData.email" required>
+  </div>
+  <div>
+    <input type="text"
+           placeholder="Tel" name="tel" #tel="ngModel"
+           [(ngModel)]="service.formData.tel" required>
+  </div>
+  <div>
+    <button>Ajouter</button>
+  </div>
+</form>
